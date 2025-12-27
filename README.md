@@ -1,9 +1,10 @@
 # learning markdown is easy____
 
-📘 Guía básica de Markdown
-Markdown es un lenguaje de marcado ligero que te permite dar formato a texto de manera sencilla y rápida. Se usa mucho en GitHub, documentación técnica, README.md, foros y notas.
+#### *Guía básica de Markdown:* Lenguaje de marcado ligero que permite dar formato a texto de manera sencilla y rápida.<br>Se usa mucho en GitHub, documentación técnica, README.md, foros y notas.
+<br>
 
-✳️ **Encabezados**<br>
+1️⃣ <br>
+✳️ **Encabezados**
 ```
 Se crean usando el símbolo #.
 # Título 1
@@ -12,14 +13,15 @@ Se crean usando el símbolo #.
 #### Título 4
 ```
 
-
+2️⃣ <br>
 ✳️ **Formato**<br>
 ```
-**Negrita**
 *Cursiva*
+**Negrita**
 ~~Tachado~~
 ```
 
+3️⃣ <br>
 ✳️ **Listas**<br>
 ```
 Lista no ordenada
@@ -33,17 +35,20 @@ Lista ordenada
 3. Tercero
 ```
 
+4️⃣ <br>
 ✳️ **Enlaces**<br>
 `[Texto del enlace](https://www.ejemplo.com)`
 
+5️⃣ <br>
 ✳️ **Imágenes**<br>
 `![Texto alternativo](https://ruta-de-la-imagen.png)`
 
+6️⃣ <br>
 ✳️ **Código**<br>
-*Código en línea*
+*Código en línea(`)*
 `System.out.println("Hola mundo");`
 
-*Bloques de código*
+*Bloques de código(```)*
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -52,9 +57,11 @@ public class Main {
 }
 ```
 
+7️⃣ <br>
 ✳️ **Citas**<br>
 `> Esto es una cita`
 
+8️⃣ <br>
 ✳️ **Tablas**<br>
 ```
 | Nombre | Lenguaje |
@@ -63,12 +70,10 @@ public class Main {
 | Macar  | Markdown |
 ```
 
+9️⃣ <br>
 ✳️ **Checklists**<br>
 ```
 - [x] Aprender Markdown
 - [ ] Practicar
 - [ ] Usarlo en GitHub
 ```
-
-
-
