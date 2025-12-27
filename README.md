@@ -1,6 +1,6 @@
 # learning markdown is easy____
 
-#### *Guía básica de Markdown:* Lenguaje de marcado ligero que permite dar formato a texto de manera sencilla y rápida.Se puede usar en GitHub, documentación técnica, README.md, foros y notas.
+#### *Guía básica de Markdown:* Lenguaje de marcado ligero que permite dar formato a texto de manera sencilla y rápida. Se puede usar en GitHub, documentación técnica, README.md, foros y notas.
 <br>
 
 1️⃣ <br>
